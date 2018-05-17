@@ -1,5 +1,4 @@
 
-
 <!-- toc -->
 
 - [Rails Sample App on OpenShift](#rails-sample-app-on-openshift)
